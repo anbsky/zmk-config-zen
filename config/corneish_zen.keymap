@@ -24,7 +24,7 @@
          36 37 38   39 40 41     */
 
 
-#define TAPPING_TERM 100 
+#define TAPPING_TERM 180 
 #define QUICK_TAP 0
 
 #define _DEFAULT 0
